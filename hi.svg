@@ -1,0 +1,13 @@
+<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font: bold 32px monospace;
+      fill: #00c8ff;
+    }
+  </style>
+
+  <text x="20" y="50" class="text">
+    Muhammad Rizqi Nurrohmat
+    <animate attributeName="textLength" from="0" to="260" dur="2.5s" fill="freeze"/>
+  </text>
+</svg>
