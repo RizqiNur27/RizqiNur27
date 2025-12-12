@@ -11,7 +11,7 @@ Informatics Engineering student with a strong passion for Machine Learning and D
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-rizqi-nurrohmat-a44a7833a)
 
-<img alt="GIF dance, transparent, dancing, best animated GIFs party, 70s, friday vibes, tgif, free download friday vibes sticker, " class="preview-media preview-media_loaded" src="https://i.gifer.com/origin/f7/f7e3705a7ba4425137dfb78af39b9735_w200.gif" role="presentation">
+<img src="https://cdn.pixabay.com/animation/2023/02/03/20/56/20-56-45-272_512.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 357px; height: 277px; margin: 0px; width: 193px;" alt="Mengetuk Menyentuh Jari - GIF Gratis di Pixabay" jsname="kn3ccd">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RizqiNur27&icon=0&color=0)](https://visitcount.itsvg.in)
