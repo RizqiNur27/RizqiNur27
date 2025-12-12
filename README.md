@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="hi.svg">
+## Hi there 👋
 
 <!--
 **RizqiNur27/RizqiNur27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
