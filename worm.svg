@@ -1,0 +1,29 @@
+<svg width="800" height="40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Path berbentuk garis lurus -->
+  <path id="track" d="M0 20 L800 20" stroke="transparent" />
+
+  <!-- Worm -->
+  <circle r="6" fill="#8e44ad">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#track"/>
+    </animateMotion>
+  </circle>
+
+  <circle r="6" fill="#9b59b6">
+    <animateMotion dur="6s" begin="0.1s" repeatCount="indefinite">
+      <mpath href="#track"/>
+    </animateMotion>
+  </circle>
+
+  <circle r="6" fill="#be2edd">
+    <animateMotion dur="6s" begin="0.2s" repeatCount="indefinite">
+      <mpath href="#track"/>
+    </animateMotion>
+  </circle>
+
+  <circle r="8" fill="#e056fd">
+    <animateMotion dur="6s" begin="0.3s" repeatCount="indefinite">
+      <mpath href="#track"/>
+    </animateMotion>
+  </circle>
+</svg>
